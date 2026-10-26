@@ -5,3 +5,7 @@
 
 *.doc
 *.docx
+*.xls
+*.xlsx
+
+data*/
