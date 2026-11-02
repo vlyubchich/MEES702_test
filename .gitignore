@@ -9,3 +9,7 @@
 *.xlsx
 
 data*/
+
+_site/*
+/.quarto/
+**/*.quarto_ipynb
